@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="SpaceShooter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpaceShooter_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SpaceShooter.jar">
+        <element id="module-output" name="SpaceShooter" />
+      </element>
+      <element id="library" level="project" name="Maven: backport-util-concurrent:backport-util-concurrent:3.1" />
+    </root>
+  </artifact>
+</component>
